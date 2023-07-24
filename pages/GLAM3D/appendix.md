@@ -852,6 +852,9 @@ Lucio Arese produced a computer graphic imagery movie [Les Dieux Changeants](htt
 
 In 2022, Sketchfab and the immersive social platform Spatial [announced](https://sketchfab.com/blogs/community/spatial-adds-sketchfab-integration/) direct import of models from Sketchfab to Spatial.  This allows Spatial users to create virtual spaces populated by open access 3D models from collections hosted on Sketchfab.
 
+## [vii. Other](#other)
+
+The European Commission tasked the Expert Group on Digital Cultural Heritage and Europeana with developing guidelines for 3D cultural heritage assets. In 2020 they release [10 principles](https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage) to help guide that process.
 
 ***
 
