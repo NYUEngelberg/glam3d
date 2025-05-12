@@ -856,6 +856,8 @@ In 2022, Sketchfab and the immersive social platform Spatial [announced](https:/
 
 The European Commission tasked the Expert Group on Digital Cultural Heritage and Europeana with developing guidelines for 3D cultural heritage assets. In 2020 they release [10 principles](https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage) to help guide that process.
 
+IN 2025 GLAM 3D Co-Author Thomas Flynn [wrote about the importance of authentic 3D models](https://nebulousflynn.substack.com/p/ai-authenticity-and-the-future-of), especially in a world of AI-generated alternatives.  In addition to discussing the importance of authenticity, Flynn explained why GLAM institutions should take active steps to champion their high quality, well optimized models. 
+
 ***
 
 ## Notes
