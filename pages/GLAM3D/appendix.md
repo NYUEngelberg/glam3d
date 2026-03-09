@@ -69,6 +69,10 @@ In 2021, [Małopolska’s Virtual Museums](https://sketchfab.com/blogs/community
 
 Most of the models from Małopolska’s Virtual Museums  are available in the public domain with the Creative Commons Zero Public Domain Dedication (CC0 1.0). Dedicating 3D models to the public domain with the internationally operative legal tool CC0 enables these cultural resources to be used for a broad spectrum of re-use and remixing applications—even for commercial purposes—without any attribution or legal restriction. Public domain content supports contemporary creators and businesses alike to build new content and experiences without undue burden and limitation. A significant portion of the 3D models from Małopolska’s Virtual Museums include realistically texture and material settings, allowing you to place them directly into the user's preferred context and setting such as new 3D models, animations, games, movies, and visualizations.
 
+###    i.iv The Metropolitan Museum of Art
+
+In 2026, the Metropolitan Museum of Art [integrated a collection of 100 3D scans into its open access collection](https://www.metmuseum.org/art/collection/search?showOnly=has3d&offset=0&showOnly=openAccess).  As of March 2026, those models cannot be downloaded and the zoom level is limited.   
+
 
 
 
