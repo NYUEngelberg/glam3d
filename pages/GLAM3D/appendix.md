@@ -71,7 +71,7 @@ Most of the models from Małopolska’s Virtual Museums  are available in the pu
 
 ###    i.iv The Metropolitan Museum of Art
 
-In 2026, the Metropolitan Museum of Art [integrated a collection of 100 3D scans into its open access collection](https://www.metmuseum.org/art/collection/search?showOnly=has3d&offset=0&showOnly=openAccess).  As of March 2026, those models cannot be downloaded and the zoom level is limited.   
+In 2026, the Metropolitan Museum of Art [integrated a collection of 100 3D scans into its open access collection](https://www.metmuseum.org/art/collection/search?showOnly=has3d&offset=0&showOnly=openAccess).  Those models can be downloaded from individual object pages.   
 
 
 
